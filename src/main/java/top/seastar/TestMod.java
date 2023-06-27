@@ -18,5 +18,9 @@ public class TestMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("This is a test mod for Fabric.");
+
+
+
 	}
 }
